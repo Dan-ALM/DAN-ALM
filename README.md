@@ -12,16 +12,16 @@
 
 ---
 
-## 📌 About me
+## 💎 About me
 
-- 🎓 │ Undergrad student studying Artificial Intelligence
-- 🌱 │ New to development and learning in public
-- 🔭 │ Currently exploring Python, web basics, and cloud fundamentals
+- 🎧 │ Undergrad student studying Artificial Intelligence
+- 🪽 ๋࣭ ࣪│ New to development and learning in public
+- 📖 │ Currently exploring Python, web basics, and cloud fundamentals
 - 💬 │ Always happy to chat about code, AI, or study tips
 
 ---
 
-## 🛠️ Tech I'm using
+## 🐬 Tech I'm using
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,azure&theme=dark" alt="Tech stack" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Projects
+## 🐟 Projects
 
 > Nothing pinned yet. I'll add my first projects here soon.
 
@@ -44,7 +44,7 @@ Template for later:
 
 ---
 
-## 📬 Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/DAN-ALM">

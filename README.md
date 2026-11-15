@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Daniel&fontSize=50&fontColor=ffffff" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋 I'm Daniel</h1>
 
 <p align="center">

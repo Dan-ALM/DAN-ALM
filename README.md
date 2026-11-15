@@ -24,11 +24,13 @@
 ## 🐬 Tech I'm using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,azure&theme=dark" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DAN-ALM/DAN-ALM/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+  <img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-0ea5e9?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0ea5e9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-0ea5e9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0ea5e9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Azure-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ---

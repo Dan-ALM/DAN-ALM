@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/Azure-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAN-ALM/DAN-ALM/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+
 ---
 
 ## 🐟 Projects

@@ -15,10 +15,10 @@
 
 ## 💎 About me
 
-- 🎧  │ Undergrad student studying Artificial Intelligence
-- 🪽 ๋࣭ ࣪│ New to development and learning in public
-- 📖  │ Currently exploring Python, web basics, and cloud fundamentals
-- 💬  │ Always happy to chat about code, AI, or study tips
+- 🎧 │ Undergrad student studying Artificial Intelligence
+- 🪽 │ New to development and learning in public
+- 📖 │ Currently exploring Python, web basics, and cloud fundamentals
+- 💬 │ Always happy to chat about code, AI, or study tips
 
 ---
 

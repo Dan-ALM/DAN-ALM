@@ -27,6 +27,10 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,azure&theme=dark" alt="Tech stack" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAN-ALM/DAN-ALM/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+
 ---
 
 ## 🚀 Projects
@@ -56,3 +60,5 @@ or hits rate limits, so it's commented out. Remove the comment markers to try it
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DAN-ALM&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
 </p>
 -->
+
+
